@@ -1,7 +1,7 @@
 # Road-Accident-Data-Project
 This one of my favorite Excel projects that I've done so far. Although this a guided project, it took me 3-4 days to fully complete it. This is a completely interactive and detailed dashboard. And to create this completely immersive dashboard it required cleaning and organizing of over a 1 million rows of data! 
 
-Okay lets dive into this project!
+Okay, let's dive into this project!
 Starting with Data Sheet ss1, this is really just the raw data that i had cleaned to make sure there wasnt any duplicates or errors. And if your wondering what the "ss" at the end of these files are, it's just screenshot. I just did that to help keep track of the file uploads and assure I dont upload the same thing twice.
 The next one in the list is KPIs ss2. This sheet is just a handfull of main KPIs thats important to the project. We will later use this sheet to help create charts and graphs for our final dashboard. There is a 2nd ss that will pair with this one. In the next one "KPIS ss2 v2", it'll just show a formula that was used quite a bit throughout the project. But as you can see we've already created some splicers to go with the data shown. And this data was pulled from the main data sheet using functions such as Pivottables. 
 Next we've created a seperate sheet just for the Monthly trends with a chart to go along with it. 
