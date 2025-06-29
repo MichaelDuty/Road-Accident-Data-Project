@@ -1,2 +1,12 @@
 # Road-Accident-Data-Project
 This one of my favorite Excel projects that I've done so far. Although this a guided project, it took me 3-4 days to fully complete it. This is a completely interactive and detailed dashboard. And to create this completely immersive dashboard it required cleaning and organizing of over a 1 million rows of data! 
+
+Okay lets dive into this project!
+Starting with Data Sheet ss1, this is really just the raw data that i had cleaned to make sure there wasnt any duplicates or errors. And if your wondering what the "ss" at the end of these files are, it's just screenshot. Ijust did that help keep track of the file uploads and dont upload the same thing twice.
+The one in the list is KPIs ss2. This sheet is just a handfull of main KPIs thats important to the project. We will later use this sheet to help create charts and graphs for our final dashboard. There is a 2nd ss that will pair with this one. In the next on KPIS ss2 v2, it'll just show a formula that was used quite a bit throughout the project. But as you can see we've already created some splicers to go with the data shown. And this data was pulled from the main data sheet using functions such as Pivottables. 
+Next we've created a seperate sheet just for the Monthly trends with a chart to go along with it. 
+After that we'll create another sheet to house our Road type pivottable and chart .
+And again we'll create another sheet for the different tpye of weather conditions and visual to go with it . 
+Then in our 2nd to last ss, this one is for 2 specific condidtions. One of the conditions is whether it's taken place in a rural or urban envivorment. And the othe condition is for light condition such as daylight or dark. with charts to vizualize them. 
+Lastly is the completed dashboard. Although this a guided project I did choose a slightly different color palet that i figured might make this easier to look at without sacrificing too much visually. This a completely interactive dashboard that will change what is shown based on specifications set by the user. And on the side of the main dashboard is a coloumn of icons thatll take you to different parts of the project such as clicking the first icon will take you to the Data sheet tab and the 2nd icon will take you to the KPIs sheet tab.
+Eventually I want to add a dropbox link to the project that'll allow this project to be downloaded and you'll be able to see this project first hand!
